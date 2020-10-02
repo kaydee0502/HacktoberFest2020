@@ -87,3 +87,7 @@ Name: [Sagalpreet Singh](https://github.com/sagalpreet)<br/>
 Place: India<br/>
 About: Passionate about open-source | Competitive Coder<br/>
 <br/>
+Name: [Vivek Patel](https://github.com/vivolscute)<br/>
+Place: India<br/>
+About: Passionate About Programming | Python Programmer
+<br/>
